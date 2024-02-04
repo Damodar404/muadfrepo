@@ -1,0 +1,9 @@
+{
+	"name": "Myadfwithgit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68d9f02b-d2ee-4def-af43-8cb9e4ccd86f",
+		"tenantId": "d288e85d-8d04-4c90-9d84-530526317799"
+	}
+}
